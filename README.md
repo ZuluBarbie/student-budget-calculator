@@ -45,3 +45,29 @@ Tests cover surplus, deficit, balanced and empty budgets, exact decimal arithmet
 - `test_budget_calculator.py`: standard-library unit tests.
 
 This project demonstrates functions, dictionaries, loops, exception handling, input validation, and unit testing.
+
+## Example Output
+
+```text
+=== Student Budget Calculator ===
+
+Enter bursary/scholarship income: R3500
+Enter part-time job income: R1200
+Enter family support: R0
+Enter other income: R0
+
+Enter rent/accommodation: R1500
+Enter groceries: R800
+Enter transport: R500
+Enter data/airtime: R250
+Enter electricity: R200
+Enter toiletries: R150
+Enter entertainment: R300
+Enter study materials: R200
+Enter other expenses: R0
+
+Total Income: R4700.00
+Total Expenses: R3900.00
+Remaining Budget: R800.00
+
+You have a surplus of R800.00.
